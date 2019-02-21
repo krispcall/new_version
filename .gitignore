@@ -9,8 +9,6 @@ build/
 ios/.generated/
 packages
 pubspec.lock
-*.iml
+
+# Directory created by dartdoc
 doc/api/
-android/local.properties
-.flutter-plugins
-.flutter-plugins-dependencies
