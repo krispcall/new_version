@@ -4,16 +4,16 @@ version: 0.3.1
 homepage: https://github.com/timtraversy/new_version
 
 environment:
-  sdk: ">=2.18.6 <3.0.0"
+  sdk: ^2.18.6
 
 dependencies:
   flutter:
     sdk: flutter
-  package_info_plus: ^3.0.2
-  http: ^0.13.5
-  html: ^0.15.1
-  url_launcher: ^6.1.7
-  collection: ^1.16.0
+  package_info_plus: ^4.0.2
+  http: ^1.1.0
+  html: ^0.15.4
+  url_launcher: ^6.1.11
+  collection: ^1.17.1
 
 dev_dependencies:
   flutter_test:
