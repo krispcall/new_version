@@ -9,11 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  package_info_plus: ^3.0.1
-  http: ^0.13.5
+  package_info_plus: ^4.1.0
+  http: ^1.1.0
   html: ^0.15.4
-  url_launcher: ^6.1.11
-  collection: ^1.17.1
+  url_launcher: ^6.1.14
+  collection: ^1.17.2
 
 dev_dependencies:
   flutter_test:
